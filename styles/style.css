@@ -1,0 +1,123 @@
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #0E0E0E;
+    
+    
+  }
+  .bg-color{
+    background-color: #F1F1F3;
+    width: 1600px;
+  }
+
+  /* shared styles */
+  .common-width{
+    width: 1280px;
+    margin: 0 auto;  
+  }
+.common-text{
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+
+  /* answer of main section */
+  /* banner styles */
+  .banner{
+    height: 560px;
+    border: none;
+    margin-top: 120px;
+    background-color: #C6E4D6;
+    border-radius: 20px;
+  }
+  .banner-subtitle{
+    color: #0E0E0E;
+    opacity: 50%;
+    font-weight: 500px;
+    font-size: 24px;
+    margin: 0;
+
+  }
+  .banner-title{
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+    margin: 0;
+  }
+  .banner-btn{
+    width: 270px;
+    height: 56px;
+    background-color: #006A50;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600px;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 16px;
+    margin-bottom: 24px;
+  }
+  .banner-img{
+    width: 470px;
+    height: 400px;
+  }
+  .banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  /* The Vision of Future start */
+  .vision-head{
+    margin-top: 80px;
+  }
+  .vision-description{
+    margin-top: 20px;
+    margin-bottom: 32px;
+  }
+  .box-btn {
+    width: auto 122px;
+    height: auto 41px;
+    color: white;
+    text-align: center;
+    padding: 11px 20px 11px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  .box-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    
+  }
+  .box-btn-1{
+    background-color: #5490f5;
+  }
+  .box-2{
+    background-color: rgb(198, 228, 214);
+    
+  }
+  .box-btn-2{
+    background-color: rgb(9, 161, 92);
+  }
+  .box-3{
+    background-color: rgb(247, 235, 207);
+    
+  }
+  .box-btn-3{
+    background-color: rgb(255, 194, 57);
+  }
+  .boxs{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  .box{
+    width: auto 410px;
+    height: auto 325px;
+    padding: 20px;
+    border-radius: 15px;
+  }
