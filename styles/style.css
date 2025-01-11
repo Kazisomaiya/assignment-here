@@ -193,11 +193,52 @@
     display: block;
     text-align: center;
   }
-  a{
-    color: white;
-    text-decoration: none;
+
+  /* subscribe newsletter start */
+  .subscribe{
+    margin-top: 80px;
+    height: 100px;
+    background-color: #C6E4D6;
+    padding: 100px 265px;
   }
-  .sc-btn{
-    width: 150px;
+  label input{
+    width: 600px; 
     height: 55px;
-  }  
+    border: none;
+    text-align: center;
+  }
+  label button{
+    width: 150px; 
+    height: 60px;
+    background-color: #006A50;
+    border: none;
+    color: white;
+    font-weight: 600px;
+    font-size: 18px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+  }
+  .same-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  label{
+    position: relative;
+  }
+  .subs-desciption{
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+ .subscribe{
+  margin-top: 80px;
+  height: 395px;
+  background-color: #C6E4D6;
+  /* display: block;
+  text-align: center; */
+
+ }
