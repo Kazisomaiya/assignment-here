@@ -166,3 +166,38 @@
     align-items: center;
   }
   
+  /* donation start */
+  .donate-head{
+    margin-top: 80px;
+    margin-bottom: 24px;
+  }
+  form input{
+    width: 240px;
+    height: 100px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  form input:hover{
+    background-color: rgb(198, 228, 214);
+  }
+  .in-color{
+    background-color: rgb(198, 228, 214);
+  }
+  .other-form{
+    margin-top: 24px;
+  }
+  .donation{
+    display: block;
+    text-align: center;
+  }
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  .sc-btn{
+    width: 150px;
+    height: 55px;
+  }  
